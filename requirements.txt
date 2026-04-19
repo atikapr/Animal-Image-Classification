@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+tensorflowjs==4.17.0
+numpy==1.25.2
+matplotlib==3.7.1
+split-folders==0.5.1
+Pillow==9.4.0
+kaggle==1.5.16
